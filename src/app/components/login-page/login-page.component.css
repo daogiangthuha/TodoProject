@@ -159,8 +159,8 @@ input[type=checkbox]{
 
 .right{
     background-color: #ededed;
-    /* border-top-right-radius: 1rem;
-    border-bottom-right-radius: 1rem; */
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
     background-image: url("../../../assets/images/default_icon.png");
     background-repeat: no-repeat;
     background-position: center;
